@@ -1,0 +1,36 @@
+ /* Styling for header */
+header {
+    background: #b7b7a4;
+    color: #fff8e8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 25px;
+    padding: 25px;  
+}
+
+ /* Styling for image */
+img {
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ /* Styling for body */
+body {
+    background:#fff8e8;
+    color: #6b705c; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    height: 100%; 
+    margin-top: 15px; 
+    margin-bottom: 15px; 
+    margin-left: 100px; 
+    margin-right: 100px; 
+    padding: 20px; 
+}
+
+/* Pseudo-classes for link styling */
+a:link    { color: #777;  }
+a:visited { color: #b7b7a4;   }
+a:hover   { color: #a5a58d; }
